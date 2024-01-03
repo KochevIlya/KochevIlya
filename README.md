@@ -9,19 +9,16 @@
 - C++
   • Object-oriented programming
   • Multithreading
-  • Basics of the language
   • Frameworks(QT)
 - Java
-• Basics of the language
-• Unit-Testing(JUnit 5 + Mockito)
-• Frameworks(JAXB, Jackson, etc.)
-- German on level C1
+• Unit-Testing(JUnit 5)
+• Frameworks(Jackson, Spring)
 - English on level B1
 </pre>
 ## 💻 Tech stack:
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt = "java" width="45" height="45"/>
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt = "blender" width="45" height="45"/>
 </p>
           
