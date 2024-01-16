@@ -1,7 +1,7 @@
 ## 👋 Hello, I’m Ilya Kochev
 
 ## 🔗 Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryia-astashkevich-9548742a7/?locale=ru_RU) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/maryia-astashkevich-9548742a7/?locale=ru_RU](https://www.linkedin.com/feed/)) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:astashkevichmaria@gmail.com)
 
 ## My skills:
