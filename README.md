@@ -6,19 +6,29 @@
 
 ## My skills:
 <pre>
+- English on level B2
+- Deutsche Sprache A1
 - C++
-  • Object-oriented programming
-  • Multithreading
-  • Frameworks(QT)
+• Object-oriented programming
+• CMake 
+• Multithreading(MPI, std::thread, Windows.h)
+• Frameworks(QT)
 - Java
 • Unit-Testing(JUnit 5)
 • Frameworks(Jackson, Spring)
-- English on level B1
+- Python
+• Python Basics
+- Algorithms & Data Structures
+• Intermidiate data management algorithms
 </pre>
-## 💻 Tech stack:
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt = "java" width="45" height="45"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width = "45" height = "45"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = "45" height = "45"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "45" height = "45"/>
+<img src ="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width = "45" height = "45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt = "blender" width="45" height="45"/>
+
 </p>
           
