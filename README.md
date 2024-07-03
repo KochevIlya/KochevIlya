@@ -7,7 +7,7 @@
 ## My skills:
 <pre>
 - English on level B2
-- Deutsche Sprache A1
+- Deutsche Sprache A2
 - C++
 • Object-oriented programming
 • CMake 
